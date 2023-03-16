@@ -1,0 +1,20 @@
+{
+  "name": "portfolio-jean-larez",
+  "version": "1.0.0",
+  "description": "Website repository to show my professional experience as a developer  full stack. (Portfolio)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeanLarez/portfolio-jean-larez.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeanLarez/portfolio-jean-larez/issues"
+  },
+  "homepage": "https://github.com/JeanLarez/portfolio-jean-larez#readme"
+}
