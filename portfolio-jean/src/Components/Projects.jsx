@@ -19,12 +19,11 @@ const Grid = () => {
                 title={project.title}
                 descrptionEng={project.descrptionEng}
                 technologies={project.technologies}
-                />
-                );
-              })}
+              />
+            );
+          })}
         </div>
       </div>
-              
     </section>
   );
 };

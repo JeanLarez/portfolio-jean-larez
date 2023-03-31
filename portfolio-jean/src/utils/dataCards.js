@@ -21,9 +21,9 @@ const dataProjects = [
     id: 3,
     title: "TMDB",
     descrptionEng:
-      "Web application using The Movie Database (TMDB) API to display movie and TV series information and filter by title, genre and more.",
+      "Web application, using The Movie Database (TMDB) API to display detailed movie and TV series information, allowing users to filter by title, genre and other parameters",
     descrptionEsp:
-      "Aplicación web utilizando la API de The Movie Database (TMDB) para mostrar información de películas y series de televisión y filtrar por título, géneroy más.",
+      "Aplicación web, utilizando la API de The Movie Database (TMDB) para mostrar información detallada de películas y series de televisión, permitiendo a los usuarios filtrar por título, género y otros parámetros",
     technologies: ["Node", "Express", "React", "Scrum"],
   },
   {
@@ -55,4 +55,4 @@ const dataProjects = [
   },
 ];
 
-export default dataProjects
+export default dataProjects;
