@@ -1,5 +1,4 @@
-import { BsGithub } from "react-icons/bs";
-import { FaLinkedin } from "react-icons/fa";
+// import { IconBrandGithub, IconBrandLinkedin } from "@tabler/icons-react";
 
 const Header = () => {
   return (
@@ -9,10 +8,10 @@ const Header = () => {
           <h2 className="text-white font-bold text-2xl ml-12">Jean Lárez</h2>
           <div className="auth flex items-center mr-12">
             <button className="py-2 px-3 rounded text-white hover:bg-white hover:text-[#0a66c2]">
-              <FaLinkedin className="text-4xl" />
+              {/* <IconBrandLinkedin size={48}/> */}
             </button>
             <button className="py-2 px-3 rounded  hover:bg-gray-800 hover:text-gray-100">
-              <BsGithub className="text-4xl text-white" />
+              {/* <IconBrandGithub size={48} className="text-white" /> */}
             </button>
           </div>
         </nav>

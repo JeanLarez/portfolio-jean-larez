@@ -17,8 +17,9 @@ const Grid = () => {
               <Card
                 key={project.id}
                 title={project.title}
-                descrptionEng={project.descrptionEng}
+                descriptionEng={project.descriptionEng}
                 technologies={project.technologies}
+                icon={project.icon}
               />
             );
           })}
