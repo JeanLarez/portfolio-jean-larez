@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JeanLarez/portfolio-jean-larez/issues"
   },
-  "homepage": "https://github.com/JeanLarez/portfolio-jean-larez#readme"
+  "homepage": "https://github.com/JeanLarez/portfolio-jean-larez#readme",
+  "dependencies": {
+    "react-icons": "^4.8.0"
+  }
 }

@@ -18,8 +18,8 @@ const Grid = () => {
                 key={project.id}
                 title={project.title}
                 descriptionEng={project.descriptionEng}
-                technologies={project.technologies}
-                icon={project.icon}
+                iconTechnologies={project.iconTechnologies}
+                iconCard={project.iconCard}
               />
             );
           })}
