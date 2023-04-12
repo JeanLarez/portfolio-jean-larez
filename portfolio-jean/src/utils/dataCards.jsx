@@ -21,9 +21,9 @@ const dataProjects = [
     iconCard: <TbSearch size={48} />,
     title: "Bumeran Selecta",
     descriptionEng:
-      "Website that allows users to post job searches, to which the algorithm automatically assigns the appropriate recruiter according to country, grading and work area.",
+      "Website that allows users to post job searches and assign the appropriate recruiter according to country, qualification and work area.",
     descriptionEsp:
-      "Sitio web que permite a los usuarios publicar búsquedas de empleo, a las que el algoritmo asigna automáticamente el reclutador adecuado según el país, califcación y área de trabajo.",
+      "Sitio web que permite a los usuarios publicar búsquedas de empleo y asignar el reclutador adecuado según el país, califcación y área de trabajo.",
     iconTechnologies: [
       <FaNodeJs size={32} />,
       <SiExpress size={32} />,
@@ -37,9 +37,9 @@ const dataProjects = [
     iconCard: <TbShoppingCart size={48} />,
     title: "Store Vinos",
     descriptionEng:
-      "Intuitive and user-friendly interface platform, allowing users to buy drinks online from the comfort of their own homes with smooth transactions and secure payments.",
+      "Intuitive and easy-to-use web-based application that allows users to select and buy drinks online from the comfort of their home",
     descriptionEsp:
-      "Plataforma de interfaz intuitiva y fácil de usar, que permite a los usuarios comprar bebidas en línea desde la comodidad de sus propios hogares con transacciones fluidas y pagos seguros.",
+      "Aplicación Web de interfaz intuitiva y facil de usar, que permite a los usuarios seleccionar y comprar bebidas en línea desde la comodidad de su hogar",
     iconTechnologies: [
       <FaNodeJs size={32} />,
       <SiExpress size={32} />,
@@ -53,9 +53,9 @@ const dataProjects = [
     iconCard: <TbVideo size={48} />,
     title: "TMDB",
     descriptionEng:
-      "Web application, using The Movie Database (TMDB) API to display detailed movie and TV series information, allowing users to filter by title, genre and other parameters",
+      "Web application, which obtains data from The Movie Database (TMDB) API to display detailed information of movies, short films and tv series",
     descriptionEsp:
-      "Aplicación web, utilizando la API de The Movie Database (TMDB) para mostrar información detallada de películas y series de televisión, permitiendo a los usuarios filtrar por título, género y otros parámetros",
+      "Aplicación web, que obtiene datos desde la API de The Movie Database (TMDB) para mostrar información detallada de películas, cortometrajes y series de tv",
     iconTechnologies: [
       <FaNodeJs size={32} />,
       <SiExpress size={32} />,
@@ -67,11 +67,11 @@ const dataProjects = [
   {
     id: 4,
     iconCard: <TbCloud size={48} />,
-    title: "wheather Chanel",
+    title: "Wheather Chanel",
     descriptionEng:
-      "Web application to display the weather forecast in real time. It was developed in integration with the OpenWeatherMap API to get the weather data.",
+      "Website developed in integration with OpenWeatherMap API to get real-time weather data and visualize weather forecast.",
     descriptionEsp:
-      "Aplicación web para visualizar el pronóstico del tiempo en tiempo real. Fue desarrollado en integración con la API OpenWeatherMap para obtener los datos meteorológicos.",
+      "Sitio web desarrollado en integración con la API OpenWeatherMap para obtener en tiempo real los datos meteorológicos y visualizar el pronóstico del tiempo.",
     iconTechnologies: [
       <AiOutlineHtml5 size={32} />,
       <TbBrandCss3 size={32} />,
@@ -85,9 +85,9 @@ const dataProjects = [
     iconCard: <TbListCheck size={48} />,
     title: "To do List",
     descriptionEng:
-      "Web application that allow the user to add new tasks, mark them as completed, delete them and also edit their content.",
+      "Website that allow the user to add new tasks to a list, mark them as completed, delete them and also edit their content.",
     descriptionEsp:
-      "Aplicación web que permitir al usuario agregar nuevas tareas, marcarlas como completadas, eliminarlas y también editar su contenido.",
+      "Sitio web que permitir al usuario agregar nuevas tareas a una lista, marcarlas como completadas, eliminarlas y también editar su contenido.",
     iconTechnologies: [
       <AiOutlineHtml5 size={32} />,
       <TbBrandCss3 size={32} />,

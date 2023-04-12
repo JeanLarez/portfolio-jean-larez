@@ -1,5 +1,3 @@
-
-
 const Header = () => {
   return (
     <header className="bg-gradient-to-b from-sky-700 via-sky-600 to-sky-500 w-full h-full bg-no-repeat bg-cover bg-center bg-fixed">
@@ -8,10 +6,10 @@ const Header = () => {
           <h2 className="text-white font-bold text-2xl ml-12">Jean Lárez</h2>
           <div className="auth flex items-center mr-12">
             <button className="py-2 px-3 rounded text-white hover:bg-white hover:text-[#0a66c2]">
-            {/* <FontAwesomeIcon icon={faLinkedIn} className="text-4xl"/> */}
+              {/* <FontAwesomeIcon icon={faLinkedIn} className="text-4xl"/> */}
             </button>
             <button className="py-2 px-3 rounded  hover:bg-gray-800 hover:text-gray-100">
-            {/* <FontAwesomeIcon icon={faGitHub} /> */}
+              {/* <FontAwesomeIcon icon={faGitHub} /> */}
             </button>
           </div>
         </nav>
@@ -41,7 +39,7 @@ const Header = () => {
               <img
                 className="h-max"
                 src="src/assets/jean_perfil_izquierdo.png"
-                alt=""
+                alt="Jean Perfil Izquierdo"
               />
             </div>
           </div>
@@ -52,5 +50,3 @@ const Header = () => {
 };
 
 export default Header;
-
-
