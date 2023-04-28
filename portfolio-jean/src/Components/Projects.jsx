@@ -18,6 +18,7 @@ const Grid = () => {
                 key={project.id}
                 title={project.title}
                 descriptionEng={project.descriptionEng}
+                descriptionEsp={project.descriptionEsp}
                 iconTechnologies={project.iconTechnologies}
                 iconCard={project.iconCard}
               />

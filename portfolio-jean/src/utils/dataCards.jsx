@@ -25,11 +25,11 @@ const dataProjects = [
     descriptionEsp:
       "Sitio web que permite a los usuarios publicar búsquedas de empleo y asignar el reclutador adecuado según el país, califcación y área de trabajo.",
     iconTechnologies: [
-      <FaNodeJs size={32} />,
-      <SiExpress size={32} />,
-      <GrMysql size={32} />,
-      <FaReact size={32} />,
-      <DiScrum size={32} />,
+      <FaNodeJs />,
+      <SiExpress />,
+      <GrMysql />,
+      <FaReact />,
+      <DiScrum />,
     ],
   },
   {
@@ -41,11 +41,11 @@ const dataProjects = [
     descriptionEsp:
       "Aplicación Web de interfaz intuitiva y facil de usar, que permite a los usuarios seleccionar y comprar bebidas en línea desde la comodidad de su hogar",
     iconTechnologies: [
-      <FaNodeJs size={32} />,
-      <SiExpress size={32} />,
-      <SiPostgresql size={32} />,
-      <FaReact size={32} />,
-      <DiScrum size={32} />,
+      <FaNodeJs />,
+      <SiExpress />,
+      <SiPostgresql />,
+      <FaReact />,
+      <DiScrum />,
     ],
   },
   {
@@ -57,11 +57,11 @@ const dataProjects = [
     descriptionEsp:
       "Aplicación web, que obtiene datos desde la API de The Movie Database (TMDB) para mostrar información detallada de películas, cortometrajes y series de tv",
     iconTechnologies: [
-      <FaNodeJs size={32} />,
-      <SiExpress size={32} />,
-      <FaReact size={32} />,
-      <TbApi size={32} />,
-      <DiScrum size={32} />,
+      <FaNodeJs />,
+      <SiExpress />,
+      <FaReact />,
+      <TbApi />,
+      <DiScrum />,
     ],
   },
   {
@@ -73,11 +73,11 @@ const dataProjects = [
     descriptionEsp:
       "Sitio web desarrollado en integración con la API OpenWeatherMap para obtener en tiempo real los datos meteorológicos y visualizar el pronóstico del tiempo.",
     iconTechnologies: [
-      <AiOutlineHtml5 size={32} />,
-      <TbBrandCss3 size={32} />,
-      <SiJavascript size={32} />,
-      <DiJqueryLogo size={32} />,
-      <TbApi size={32} />,
+      <AiOutlineHtml5 />,
+      <TbBrandCss3 />,
+      <SiJavascript />,
+      <DiJqueryLogo />,
+      <TbApi />,
     ],
   },
   {
@@ -89,10 +89,9 @@ const dataProjects = [
     descriptionEsp:
       "Sitio web que permitir al usuario agregar nuevas tareas a una lista, marcarlas como completadas, eliminarlas y también editar su contenido.",
     iconTechnologies: [
-      <AiOutlineHtml5 size={32} />,
-      <TbBrandCss3 size={32} />,
-      <SiJavascript size={32} />,
-      <TbBraces size={32} />,
+      <AiOutlineHtml5 />,
+      <TbBrandCss3 />,
+      <SiJavascript />,
       "OOP",
     ],
   },
@@ -105,9 +104,9 @@ const dataProjects = [
     descriptionEsp:
       "Aplicación interactiva que presenta al usuario un color en formato RGB, para elejir el cuadro de color que coincide con el valor dado.",
     iconTechnologies: [
-      <AiOutlineHtml5 size={32} />,
-      <TbBrandCss3 size={32} />,
-      <SiJavascript size={32} />,
+      <AiOutlineHtml5 />,
+      <TbBrandCss3 />,
+      <SiJavascript />,
     ],
   },
 ];
