@@ -23,7 +23,7 @@ const dataProjects = [
     descriptionEng:
       "Website that allows users to post job searches and assign the appropriate recruiter according to country, qualification and work area.",
     descriptionEsp:
-      "Sitio web que permite a los usuarios publicar búsquedas de empleo y asignar el reclutador adecuado según el país, califcación y área de trabajo.",
+      "Sitio web que permite a los usuarios publicar búsquedas de empleo y asignar el reclutador según el país, califcación y área de trabajo.",
     iconTechnologies: [
       <FaNodeJs />,
       <SiExpress />,
@@ -55,7 +55,7 @@ const dataProjects = [
     descriptionEng:
       "Web application, which obtains data from The Movie Database (TMDB) API to display detailed information of movies, short films and tv series",
     descriptionEsp:
-      "Aplicación web, que obtiene datos desde la API de The Movie Database (TMDB) para mostrar información detallada de películas, cortometrajes y series de tv",
+      "Aplicación web, que obtiene datos desde la API de ¨The Movie Database¨ para mostrar información detallada de películas, cortometrajes y series de tv",
     iconTechnologies: [
       <FaNodeJs />,
       <SiExpress />,
@@ -71,7 +71,7 @@ const dataProjects = [
     descriptionEng:
       "Website developed in integration with OpenWeatherMap API to get real-time weather data and visualize weather forecast.",
     descriptionEsp:
-      "Sitio web desarrollado en integración con la API OpenWeatherMap para obtener en tiempo real los datos meteorológicos y visualizar el pronóstico del tiempo.",
+      "Sitio web desarrollado en integración con la API OpenWeatherMap para obtener y visualizar el pronóstico del tiempo.",
     iconTechnologies: [
       <AiOutlineHtml5 />,
       <TbBrandCss3 />,
@@ -103,11 +103,7 @@ const dataProjects = [
       "Interactive application that presents the user with a color in RGB format, to choose the color box that matches the given value.",
     descriptionEsp:
       "Aplicación interactiva que presenta al usuario un color en formato RGB, para elejir el cuadro de color que coincide con el valor dado.",
-    iconTechnologies: [
-      <AiOutlineHtml5 />,
-      <TbBrandCss3 />,
-      <SiJavascript />,
-    ],
+    iconTechnologies: [<AiOutlineHtml5 />, <TbBrandCss3 />, <SiJavascript />],
   },
 ];
 
