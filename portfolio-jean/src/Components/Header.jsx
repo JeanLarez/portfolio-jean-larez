@@ -27,7 +27,7 @@ const Header = () => {
   };
 
   return (
-    <header className="bg-gradient-to-b from-sky-700 via-sky-600 to-sky-500 w-full h-full bg-no-repeat bg-cover bg-center bg-fixed">
+    <header className="bg-black w-full h-full bg-no-repeat bg-cover bg-center bg-fixed">
       <div className="dark:bg-gray-900 content pt-1.5 px-8">
         <nav className="flex items-center justify-between">
           <h2 className="text-white font-bold text-2xl ml-12">Jean Lárez</h2>
